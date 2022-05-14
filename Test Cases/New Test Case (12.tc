@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>New Test Case (12</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>0bd41d2d-5701-457b-9412-45ad0b5a346e</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>37bde0a6-ad17-42b6-a08f-6414406353e0</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Vlad'</defaultValue>
+      <description></description>
+      <id>37bde0a6-ad17-42b6-a08f-6414406353e0</id>
+      <masked>false</masked>
+      <name>variable</name>
+   </variable>
+</TestCaseEntity>
